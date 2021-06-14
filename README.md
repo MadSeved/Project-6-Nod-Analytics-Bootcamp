@@ -6,3 +6,5 @@ I use the LFW People data set (http://vis-www.cs.umass.edu/lfw/) along with some
 I also investigate the likelihood of the machine to correctly associate a face with the person's name.
 
 Significant time is also spent on trying to learn how the machine "thinks". I do this using unsupervised machine learning.
+
+Note: I am not providing the data sets in this repo
